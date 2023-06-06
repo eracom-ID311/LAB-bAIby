@@ -1,0 +1,12 @@
+img {
+  max-width: 100%;
+  display: block;
+}
+/*systeme de colonne*/
+.row {
+  display: flex;
+  gap: var(--unit);
+}
+.row > * {
+  flex: 1;
+}

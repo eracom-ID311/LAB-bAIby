@@ -1,0 +1,15 @@
+/* CHARTE GRAPHIQUE*/
+/*typographie*/
+@import url("https://rsms.me/inter/inter.css");
+:root {
+  font-family: "Inter var", sans-serif;
+}
+
+/*couleur*/
+:root {
+  --foret: hsl(120, 50%, 20%);
+}
+
+:root {
+  --unit: 1rem;
+}
