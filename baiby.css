@@ -6,10 +6,19 @@
 }
 
 /*couleur*/
-:root {
+/*:root {
   --foret: hsl(120, 50%, 20%);
-}
+}*/
 
 :root {
   --unit: 1rem;
+}
+.txtblanc {
+  color: white;
+}
+.txtlila {
+  color: #BB9AE5;
+}
+.fontvariation {
+  font-feature-settings: "ss02";
 }

@@ -1,5 +1,6 @@
 
-header,section {min-height: 100vh;}
+header:not(.je-suis-petit),
+section:not(.je-suis-petit) {min-height: 100vh;}
 
 
 .container {
