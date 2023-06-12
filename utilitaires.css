@@ -12,4 +12,6 @@ img {
   .row > * {
     flex: 1;
   }
+  .column { display: flex;
+  flex-direction: column;}
 }
