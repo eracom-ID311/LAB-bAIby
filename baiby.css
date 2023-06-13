@@ -23,5 +23,5 @@
   font-feature-settings: "ss02";
 }
 .centrer {
-  text-align: center;
+  justify-content: center;
 }

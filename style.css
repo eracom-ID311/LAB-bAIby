@@ -17,7 +17,7 @@ h1 {
   /*font-size: clamp(2rem, -9.773584905660377rem + 58.867924528301884vw, 41rem); */
   font-size: 36rem;
   font-style: extra-bold;
-  text-align: center;
+  justify-content: center;
   margin-top: 10rem;
 }
 
