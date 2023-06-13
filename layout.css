@@ -10,14 +10,18 @@ section:not(.je-suis-petit) {
 
 /* @media (min-width: 800px) { */
 
-nav {
+nav ul {
   display: flex;
   justify-content: space-between;
   min-height: 8rem;
 }
-nav a {
-  display: block;
+nav ul li {
   flex: 1;
+}
+
+nav ul li a {
+  display: block;
+  padding: 2rem;
   text-align: center;
   color: inherit;
   text-decoration: none;
