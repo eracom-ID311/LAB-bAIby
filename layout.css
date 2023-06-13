@@ -3,10 +3,10 @@ section:not(.je-suis-petit) {
   min-height: 100vh;
 }
 
-/* .container {
+.container {
   max-width: 50rem;
   margin: auto;
-} */
+}
 
 /* @media (min-width: 800px) { */
 
