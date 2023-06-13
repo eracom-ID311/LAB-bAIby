@@ -24,3 +24,11 @@ nav a {
 nav a:hover {
   background-color: #bb9ae5;
 }
+
+section.single, 
+.untrucaumilieu {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
