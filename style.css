@@ -8,7 +8,6 @@ body {
     #bb9ae5 90%,
     black 98%
   );
-  margin: 20rem;
 }
 
 h1 {
@@ -28,6 +27,7 @@ h1 {
 h2 {
   font-size: 134px;
   padding-bottom: 15rem;
+  padding-top: 20rem;
 }
 
 h3 {
@@ -44,4 +44,7 @@ p {
   font-size: 32px;
   padding-bottom: 3rem;
   padding-top: 1rem;
+}
+header {
+  padding-top: -1rem;
 }
