@@ -1,19 +1,24 @@
 /*fourre tout, divers et varié*/
-body {
-    background: linear-gradient(to top, rgb(0, 0, 0) 10%, rgb(187, 154, 229) 70%, rgb(255, 255, 255) 75%, rgb(0, 0, 0) 10%);
-}
+
 body {
   color: var(--foret);
+  background: linear-gradient(
+    to top,
+    rgb(0, 0, 0) 10%,
+    rgb(187, 154, 229) 70%,
+    rgb(255, 255, 255) 75%,
+    rgb(0, 0, 0) 10%
+  );
+  margin: 20rem;
 }
 
 h1 {
-  /*font-size: 2rem; */
+  /* font-size: 2rem; */
   /*font-size: clamp(2rem, -9.773584905660377rem + 58.867924528301884vw, 41rem); */
   font-size: 36rem;
   font-style: extra-bold;
   text-align: center;
   margin-top: 10rem;
-
 }
 
 h2 {
@@ -22,15 +27,12 @@ h2 {
 
 h3 {
   font-size: 60px;
- 
 }
 
 h4 {
   font-size: 48px;
-
 }
 
 p {
   font-size: 32px;
-
 }
