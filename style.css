@@ -8,7 +8,6 @@ body {
     #bb9ae5 90%,
     black 98%
   );
-  margin: 20rem;
 }
 
 h1 {
@@ -39,4 +38,7 @@ p {
   font-size: 32px;
   padding-bottom: 3rem;
   padding-top: 1rem;
+}
+header {
+  padding-top: -1rem;
 }
