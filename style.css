@@ -16,17 +16,21 @@ h1 {
   /* font-size: 2rem; */
   /*font-size: clamp(2rem, -9.773584905660377rem + 58.867924528301884vw, 41rem); */
   font-size: 36rem;
-  font-style: extra-bold;
-  justify-content: center;
   margin-top: 10rem;
 }
 
 h2 {
   font-size: 134px;
+  padding-bottom: 5rem;
 }
+
+
+
 
 h3 {
   font-size: 60px;
+  padding-bottom: 2rem;
+
 }
 
 h4 {
@@ -35,4 +39,5 @@ h4 {
 
 p {
   font-size: 32px;
+  padding-bottom: 3rem;
 }
