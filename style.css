@@ -1,15 +1,19 @@
 /*fourre tout, divers et varié*/
 
 body {
-  color: var(--foret);
   background: linear-gradient(
-   /* to top,
+    /* to top,
     rgb(0, 0, 0) 10%,
     rgb(187, 154, 229) 70%,
     rgb(255, 255, 255) 75%,
     rgb(0, 0, 0) 10%
   )*/
-  black 12%, #bb9ae5 17%, white 40%, #bb9ae5 90%, black 98%);
+      black 12%,
+    #bb9ae5 17%,
+    white 40%,
+    #bb9ae5 90%,
+    black 98%
+  );
   margin: 20rem;
 }
 
