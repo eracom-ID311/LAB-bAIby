@@ -13,6 +13,7 @@ section:not(.je-suis-petit) {
 nav {
   display: flex;
   justify-content: space-between;
+  min-height: 8rem;
 }
 nav a {
   display: block;
@@ -26,7 +27,8 @@ nav a:hover {
 }
 
 section.single, 
-.untrucaumilieu {
+.untrucaumilieu,
+.header {
   min-height: 100vh;
   display: flex;
   justify-content: center;
