@@ -3,25 +3,24 @@ section:not(.je-suis-petit) {
   min-height: 100vh;
 }
 
-
-.container {
+/* .container {
   max-width: 50rem;
   margin: auto;
-}
+} */
 
 /* @media (min-width: 800px) { */
 
-  nav {
-    display: flex;
-    justify-content: space-between;
-  }
-  nav a {
-    display: block;
-    flex: 1;
-    text-align: center;
-    color: inherit;
-    text-decoration: none;
-  }
-  nav a:hover {
-    background-color: #bb9ae5;
-  }
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+nav a {
+  display: block;
+  flex: 1;
+  text-align: center;
+  color: inherit;
+  text-decoration: none;
+}
+nav a:hover {
+  background-color: #bb9ae5;
+}
