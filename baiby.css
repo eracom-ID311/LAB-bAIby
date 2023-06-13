@@ -22,6 +22,12 @@
 .fontvariation {
   font-feature-settings: "ss02";
 }
-.centrer {
-  justify-content: center;
+.alignercentre {
+  text-align: center;
 }
+.justifgcentre {
+  text-align: left;
+}
+/* .col-droite {
+  tex
+} */
