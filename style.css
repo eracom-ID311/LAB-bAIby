@@ -1,6 +1,6 @@
 /*fourre tout, divers et varié*/
 body {
-  /*background-color: #f1357a;*/
+    background: linear-gradient(to top, rgb(0, 0, 0) 10%, rgb(187, 154, 229) 70%, rgb(255, 255, 255) 75%, rgb(0, 0, 0) 10%);
 }
 body {
   color: var(--foret);
