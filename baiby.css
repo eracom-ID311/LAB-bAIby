@@ -17,8 +17,11 @@
   color: white;
 }
 .txtlila {
-  color: #BB9AE5;
+  color: #bb9ae5;
 }
 .fontvariation {
   font-feature-settings: "ss02";
+}
+.centrer {
+  text-align: center;
 }
