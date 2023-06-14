@@ -44,6 +44,7 @@ section.single,
   align-items: center;
 }
 
+
 #scroll_to_top {
   position: fixed;
 
@@ -52,7 +53,13 @@ section.single,
   bottom: 50px;
   right: 30px;
   scale: 140%;
+  --offset: 50px;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 #scroll_to_top img {
   width: 25px;
 }
