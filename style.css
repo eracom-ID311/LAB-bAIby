@@ -34,16 +34,20 @@ h2 {
   font-size: 134px;
   padding-bottom: 15rem;
   padding-top: 20rem;
+  font-weight: 300;
 }
 
 h3 {
   font-size: 60px;
   padding-bottom: 2rem;
+  font-weight: 300;
 }
 
 h4 {
   font-size: 48px;
   padding-top: 3rem;
+  font-weight: 300;
+  line-height: 3.2rem;
 }
 
 p {
@@ -51,6 +55,7 @@ p {
   padding-bottom: 3rem;
   padding-top: 1rem;
   line-height: 2.3rem;
+  font-weight: 300;
 }
 header {
   padding-top: -1rem;
