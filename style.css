@@ -30,6 +30,12 @@ header h1 {
 }
 
 
+#Boutoncommande {
+  border-style: solid;
+  border-width: 2rem;
+  border-color: white;
+}
+
 h2 {
   font-size: 134px;
   padding-bottom: 15rem;
