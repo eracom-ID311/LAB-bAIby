@@ -15,6 +15,7 @@ nav ul {
   justify-content: space-between;
   min-height: 8rem;
   text-align: center;
+  
 }
 nav ul li {
   flex: 1;
@@ -42,4 +43,15 @@ section.single,
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#scroll_to_top {
+  position: fixed;
+  width: 25px;
+  height: 25px;
+  bottom: 50px;
+  right: 30px;
+}
+#scroll_to_top img {
+  width: 25px;
 }
