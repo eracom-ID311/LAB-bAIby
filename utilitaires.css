@@ -4,7 +4,7 @@ img {
   display: block;
 }
 /*systeme de colonne*/
-@media (min-width:700px){
+@media (min-width: 700px) {
   .row {
     display: flex;
     gap: var(--unit);
@@ -12,6 +12,8 @@ img {
   .row > * {
     flex: 1;
   }
-  .column { display: flex;
-  flex-direction: column;}
+  .column {
+    display: flex;
+    flex-direction: column;
+  }
 }
