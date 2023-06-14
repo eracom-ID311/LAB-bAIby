@@ -10,10 +10,6 @@
   --foret: hsl(120, 50%, 20%);
 }*/
 
-span {
-  color: #bb9ae5;
-}
-
 :root {
   --unit: 1rem;
 }
