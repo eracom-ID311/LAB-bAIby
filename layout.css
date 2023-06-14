@@ -44,7 +44,6 @@ section.single,
   align-items: center;
 }
 
-
 #scroll_to_top {
   position: fixed;
 
@@ -54,6 +53,7 @@ section.single,
   right: 30px;
   scale: 140%;
   --offset: 50px;
+  z-index: 1;
 }
 
 html {
