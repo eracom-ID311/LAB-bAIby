@@ -15,7 +15,6 @@ nav ul {
   justify-content: space-between;
   min-height: 8rem;
   text-align: center;
-  
 }
 nav ul li {
   flex: 1;
@@ -56,4 +55,8 @@ section.single,
 }
 #scroll_to_top img {
   width: 25px;
+}
+
+.bigbleed.left {
+  transform: scale(1.25) translate(-14%, 0%);
 }
