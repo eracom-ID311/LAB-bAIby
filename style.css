@@ -94,3 +94,26 @@ p {
 header {
   padding-top: -1rem;
 }
+
+footer {
+  padding-top: 20rem;
+}
+
+.txtfooter p {
+  font-size: 12px;
+  line-height: 1.3rem;
+  margin-left: 9rem;
+  margin-right: 9rem;
+  padding: 0.7rem;
+}
+
+.txtfooter h3 {
+  font-size: 22px;
+  margin-left: 9rem;
+  margin-right: 9rem;
+}
+
+.txtfooter img {
+  margin-left: 5.9rem;
+  scale: 60%;
+}
