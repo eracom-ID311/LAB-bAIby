@@ -85,10 +85,11 @@ html {
 .payement {
   max-width: 15vw;
 }
+
 .ipadfond {
   background-image: url(image/tablettevide.png);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: 75%%;
+  background-position: 75%;
 }
 /* img {src="image/tablettevide.png" alt="tablettevide"} */
