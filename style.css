@@ -19,6 +19,18 @@ header h1 {
   text-align: center;
 }
 
+.txtgauche {
+  text-align: left;
+  max-width: 60rem;
+  padding-right: 34rem;
+}
+
+.txtgauchespecial {
+  text-align: left;
+  max-width: 80rem;
+  padding-right: 25rem;
+}
+
 .alignercentre {
   text-align: center;
 }
