@@ -99,6 +99,10 @@ header {
   margin-bottom: 12rem;
 }
 
+#inscription h3 {
+  line-height: 4.5rem;
+}
+
 .champinscription {
   font-size: 15px;
   padding-bottom: 1rem;
