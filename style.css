@@ -95,6 +95,15 @@ header {
   padding-top: -1rem;
 }
 
+#inscription h2 {
+  margin-bottom: 12rem;
+}
+
+.champinscription {
+  font-size: 15px;
+  padding-bottom: 1rem;
+}
+
 footer {
   padding-top: 20rem;
 }
