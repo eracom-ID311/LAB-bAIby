@@ -117,18 +117,28 @@ h2 {
   font-size: 35px;
 }
 
+.formulairecommande {
+  margin-right: 9rem;
+}
+
 .formulairecommande p {
   font-size: 28px;
   border-style: solid;
-  border-radius: 2rem;
-  border-width: 0.2rem;
-  border-color: white;
+  border-radius: 0.5rem;
+  background-color: #bb9ae5;
   margin: auto;
-  width: 25rem;
-  min-height: 1rem;
-  margin-top: 18rem;
-  display: block;
-  color: rgb(0, 0, 0);
+  margin-left: 5rem;
+  padding: 1rem;
+  max-width: 13rem;
+}
+
+.formulairecommande p:hover {
+  border-style: solid;
+  border-radius: 0.5rem;
+  border-width: 0.2rem;
+  border-color: #bb9ae5;
+  background-color: transparent;
+  transition: 0.3s;
 }
 
 h3 {
