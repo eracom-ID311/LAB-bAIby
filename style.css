@@ -1,7 +1,7 @@
 /*fourre tout, divers et varié*/
 
 body {
-  background: linear-gradient(black 12%, #bb9ae5 17%, #bb9ae5 90%, black 98%);
+  background: linear-gradient(black 12%, #bb9ae5 17%, white 30%, #bb9ae5 90%, black 98%);
 }
 
 header {
