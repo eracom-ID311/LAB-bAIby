@@ -63,7 +63,9 @@ html {
 #scroll_to_top img {
   width: 25px;
 }
-
+.bigbleed.left.prems {
+  transform: scale(1.25) translate(-14%, 42%);
+}
 .bigbleed.left {
   transform: scale(1.25) translate(-14%, 0%);
 }
