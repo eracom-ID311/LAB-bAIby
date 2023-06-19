@@ -33,6 +33,7 @@ nav ul li a {
 }
 nav a:hover {
   color: #bb9ae5;
+  transition: 0.3s;
 }
 
 section.single,
@@ -105,5 +106,5 @@ html {
   padding-top: 40vh;
   max-width: 160vw;
   width: 160vw;
-/* img {src="image/tablettevide.png" alt="tablettevide"} */
+  /* img {src="image/tablettevide.png" alt="tablettevide"} */
 }
