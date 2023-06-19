@@ -56,7 +56,7 @@ header h1 {
   justify-content: center;
 }
 
-#Boutoncommande {
+#Boutoncommande a {
   border-style: solid;
   border-radius: 2rem;
   border-width: 0.2rem;
@@ -65,18 +65,15 @@ header h1 {
   width: 25rem;
   min-height: 1rem;
   margin-top: 18rem;
-  padding-bottom: 2.4rem;
-}
-
-#Boutoncommande a {
+  display: block;
   color: white;
   text-decoration: none;
+  padding: 2.4rem;
+  text-align: center;
 }
 
 #Boutoncommande a:hover {
   color: #bb9ae5;
-}
-#Boutoncommande:hover {
   background-color: white;
   transition: 0.3s;
 }
