@@ -100,12 +100,8 @@ html {
   background-repeat: no-repeat;
   background-position: 10%%;
 }
-
-#imagetablettephoto img {
+#imagetablettephoto {
   padding-top: 10%;
-  width: 120%;
-  max-width: 120%;
-  /* transform: scale(2.5) translate(-8%, 20%);
-*/
+  transform: scale(2.5) translate(-8%, 20%);
 }
 /* img {src="image/tablettevide.png" alt="tablettevide"} */
