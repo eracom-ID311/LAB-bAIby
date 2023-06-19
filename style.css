@@ -136,18 +136,6 @@ header {
   padding-bottom: 1rem;
 }
 
-.champinscription button {
-  border-style: solid;
-  border-radius: 2rem;
-  border-width: 0.2rem;
-  border-color: white;
-  margin: auto;
-  width: 25rem;
-  min-height: 1rem;
-  margin-top: 18rem;
-  padding-bottom: 2.4rem;
-}
-
 .formulaire {
   margin-left: 9rem;
 }
