@@ -25,6 +25,13 @@ nav ul li {
 }
 
 nav ul li a {
+  border-style: solid;
+  border-radius: 0.7rem;
+  border-width: 0.09rem;
+  border-color: white;
+  margin: auto;
+  width: 25rem;
+  height: 1rem;
   display: block;
   width: max-content;
   padding: 1rem;
@@ -32,7 +39,8 @@ nav ul li a {
   text-decoration: none;
 }
 nav a:hover {
-  color: #bb9ae5;
+  color: #000000;
+  background-color: white;
   transition: 0.3s;
 }
 
