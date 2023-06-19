@@ -26,12 +26,12 @@ nav ul li {
 
 nav ul li a {
   border-style: solid;
-  border-radius: 0.7rem;
-  border-width: 0.09rem;
+  border-radius: 0.5rem;
+  border-width: 0.05rem;
   border-color: white;
   margin: auto;
-  width: 25rem;
-  height: 1rem;
+  width: 20rem;
+  height: 0.8rem;
   display: block;
   width: max-content;
   padding: 1rem;
