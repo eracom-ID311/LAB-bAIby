@@ -99,6 +99,15 @@ h2 {
   line-height: 8rem;
 }
 
+.titrenostablettes {
+  margin-left: 9rem;
+}
+
+#Tablettes .container {
+  padding-top: 10rem;
+  margin-right: 9rem;
+}
+
 h3 {
   font-size: 60px;
   padding-top: 2rem;
