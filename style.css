@@ -139,6 +139,10 @@ header {
 .formulaire {
   margin-left: 9rem;
 }
+.Tableau img {
+  scale: 50%;
+  margin-top: 45rem;
+}
 
 hr {
   padding-top: 20rem;
