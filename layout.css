@@ -72,10 +72,12 @@ html {
 }
 .bigbleed.left.faketime {
   transform: scale(2) translate(-40%, 0%);
+  padding-top: 15%;
 }
 
 .bigbleed.right.baidtime {
-  transform: scale(1.2) translate(10%, 0%);
+  transform: scale(1.5) translate(10%, 0%);
+  padding-top: 19%;
 }
 
 .hasBleed {
