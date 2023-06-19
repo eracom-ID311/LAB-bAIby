@@ -113,6 +113,24 @@ h2 {
   margin-right: 9rem;
 }
 
+.formulairecommande h4 {
+  font-size: 35px;
+}
+
+.formulairecommande p {
+  font-size: 28px;
+  border-style: solid;
+  border-radius: 2rem;
+  border-width: 0.2rem;
+  border-color: white;
+  margin: auto;
+  width: 25rem;
+  min-height: 1rem;
+  margin-top: 18rem;
+  display: block;
+  color: rgb(0, 0, 0);
+}
+
 h3 {
   font-size: 60px;
   padding-top: 2rem;
