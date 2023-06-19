@@ -15,7 +15,7 @@ header {
   url("image/degrade.png") repeat-x ;*/
   background-image: url(image/degrade.png), url(image/tablettevide.png);
   background-repeat: repeat-x, no-repeat;
-  background-position: bottom left, center center;
+  background-position: bottom left, center 6rem;
   background-attachment: scroll, fixed;
   background-size: 800px, 100vh;
   padding-top: 6rem;
