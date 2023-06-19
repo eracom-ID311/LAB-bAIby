@@ -98,10 +98,11 @@ html {
   background-image: url(image/tablettevide.png);
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: 10%%;
+  background-position: 10%;
 }
-#imagetablettephoto {
-  padding-top: 10%;
-  transform: scale(2.5) translate(-8%, 20%);
-}
+
+#imagetablettephoto img {
+  padding-top: 40vh;
+  max-width: 160vw;
+  width: 160vw;
 /* img {src="image/tablettevide.png" alt="tablettevide"} */
