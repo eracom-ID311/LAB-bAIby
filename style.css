@@ -146,6 +146,28 @@ h2 {
   color: #bb9ae5;
 }
 
+.formulairecommande h3 {
+  border-style: solid;
+  border-radius: 2rem;
+  border-width: 0.2rem;
+  border-color: white;
+  margin: auto;
+  width: 15rem;
+  min-height: 1rem;
+  margin-top: 18rem;
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 2.4rem;
+  text-align: center;
+}
+
+.formulairecommande h3:hover {
+  color: #bb9ae5;
+  background-color: white;
+  transition: 0.3s;
+}
+
 h3 {
   font-size: 60px;
   padding-top: 2rem;
