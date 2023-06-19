@@ -140,8 +140,17 @@ header {
   margin-left: 9rem;
 }
 
-footer {
+hr {
   padding-top: 20rem;
+  width: 100vw;
+  size: 1px;
+  border-top: 1px;
+  border-right: none;
+  border-left: none;
+}
+
+footer {
+  padding-top: 5rem;
 }
 
 .txtfooter p {
