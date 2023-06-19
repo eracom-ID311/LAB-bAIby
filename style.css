@@ -142,6 +142,10 @@ h2 {
   transition: 0.3s;
 }
 
+.formulairecommande input {
+  color: #bb9ae5;
+}
+
 h3 {
   font-size: 60px;
   padding-top: 2rem;
