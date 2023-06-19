@@ -68,6 +68,19 @@ header h1 {
   padding-bottom: 2.4rem;
 }
 
+#Boutoncommande a {
+  color: white;
+  text-decoration: none;
+}
+
+#Boutoncommande a:hover {
+  color: #bb9ae5;
+}
+#Boutoncommande:hover {
+  background-color: white;
+  transition: 0.3s;
+}
+
 #baibeat,
 #baidtime {
   margin-left: 9rem;
