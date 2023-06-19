@@ -11,9 +11,10 @@ body {
 }
 
 header {
-  background: url("images/bg.jpg") no-repeat center center fixed;
-  background-size: cover;
+  background: url("image/tablettevide.png") no-repeat center center fixed;
+  background-size: 100vh;
   padding-top: 6rem;
+
 }
 
 header h1 {
