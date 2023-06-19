@@ -102,6 +102,6 @@ html {
 }
 #imagetablettephoto {
   padding-top: 10%;
-  transform: scale(2.5) translate(-8%, 10%);
+  transform: scale(2.5) translate(-8%, 20%);
 }
 /* img {src="image/tablettevide.png" alt="tablettevide"} */
