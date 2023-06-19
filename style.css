@@ -13,11 +13,11 @@ body {
 header {
   /*background: url("image/tablettevide.png") no-repeat center center fixed,
   url("image/degrade.png") repeat-x ;*/
-  background-image: url(image/tablettevide.png), url(image/degrade.png);
-  background-repeat: no-repeat, repeat-x;
-  background-position: center center, bottom left;
-  background-attachment: fixed, scroll;
-  background-size: 100vh;
+  background-image: url(image/degrade.png), url(image/tablettevide.png);
+  background-repeat:  repeat-x, no-repeat;
+  background-position:  bottom left, center center;
+  background-attachment:  scroll, fixed;
+  background-size:  800px, 100vh;
   padding-top: 6rem;
 
 
