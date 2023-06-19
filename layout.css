@@ -94,4 +94,8 @@ html {
   background-repeat: no-repeat;
   background-position: 75%;
 }
+#imagetablettephoto {
+  /* padding-top: 20%; */
+  transform: scale(2.5) translate(-8%, 10%);
+}
 /* img {src="image/tablettevide.png" alt="tablettevide"} */
