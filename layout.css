@@ -64,7 +64,7 @@ html {
   width: 25px;
 }
 .bigbleed.left.prems {
-  transform: scale(1.25) translate(-14%, 42%);
+  transform: scale(1.25) translate(-14%, 15%);
 }
 .bigbleed.left {
   transform: scale(1.25) translate(-14%, 0%);
