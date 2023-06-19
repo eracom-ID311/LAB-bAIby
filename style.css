@@ -62,7 +62,6 @@ header h1 {
   border-width: 0.2rem;
   border-color: white;
   margin: auto;
-  padding: -3rem;
   width: 25rem;
   min-height: 1rem;
   margin-top: 18rem;
@@ -140,9 +139,24 @@ header {
 .formulaire {
   margin-left: 9rem;
 }
+.Tableau img {
+  scale: 50%;
+  margin-top: 45rem;
+}
+
+hr {
+  padding-top: 20rem;
+  height: auto;
+  width: 100vw;
+  size: 1px;
+  border-top: 1px;
+  border-right: none;
+  border-left: none;
+}
 
 footer {
-  padding-top: 20rem;
+  padding-top: 5rem;
+  align-items: center;
 }
 
 .txtfooter p {
@@ -160,6 +174,7 @@ footer {
 }
 
 .txtfooter img {
-  margin-left: 5.9rem;
+  margin-left: 9rem;
+  margin-right: 9rem;
   scale: 60%;
 }
