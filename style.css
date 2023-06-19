@@ -1,13 +1,19 @@
 /*fourre tout, divers et varié*/
 
 body {
-  background: linear-gradient(black 12%, #bb9ae5 17%, white 30%, #bb9ae5 90%, black 98%);
+  background: linear-gradient(
+    black 12%,
+    #bb9ae5 17%,
+    white 30%,
+    #bb9ae5 90%,
+    black 98%
+  );
 }
 
 header {
   background: url("images/bg.jpg") no-repeat center center fixed;
   background-size: cover;
-  margin-top: 2rem;
+  padding-top: 6rem;
 }
 
 header h1 {
@@ -115,7 +121,7 @@ header {
 }
 
 .champinscription {
-  font-size: 15px;
+  font-size: 20px;
   padding-bottom: 1rem;
 }
 
