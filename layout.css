@@ -116,3 +116,6 @@ html {
   width: 160vw;
   /* img {src="image/tablettevide.png" alt="tablettevide"} */
 }
+.boutonplushaut {
+  padding-bottom: 5rem;
+}
