@@ -10,6 +10,11 @@ body {
   );
 }
 
+b,
+strong {
+  font-weight: bolder;
+}
+
 header {
   /*background: url("image/tablettevide.png") no-repeat center center fixed,
   url("image/degrade.png") repeat-x ;*/
