@@ -83,12 +83,12 @@ html {
 }
 .bigbleed.left.faketime {
   transform: scale(2) translate(-40%, 0%);
-  padding-top: 15%;
+  padding-top: 100%;
 }
 
 .bigbleed.right.baidtime {
   transform: scale(1.25) translate(9%, 0%);
-  padding-top: 19%;
+  padding-top: 15%;
 }
 
 .hasBleed {
@@ -115,7 +115,4 @@ html {
   max-width: 160vw;
   width: 160vw;
   /* img {src="image/tablettevide.png" alt="tablettevide"} */
-}
-.boutonplushaut {
-  padding-bottom: 5rem;
 }
