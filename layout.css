@@ -106,6 +106,15 @@ html {
   margin-left: 4rem;
 }
 
+div.fakeForm {
+  margin-top: 10rem;
+  margin-bottom: 40rem;
+}
+div.fakeForm .fuckFuck img {
+  width: 80rem;
+  margin-left: 4rem;
+}
+
 .ipadfond {
   background-image: url(image/tablettevide.png);
   background-size: contain;
