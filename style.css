@@ -143,6 +143,15 @@ h2 {
   transition: 0.3s;
 }
 
+.formulairecommande p:active {
+  border-style: solid;
+  border-radius: 0.5rem;
+  border-width: 0.2rem;
+  border-color: #bb9ae5;
+  background-color: transparent;
+  transition: 0.3s;
+}
+
 .formulairecommande input {
   color: #bb9ae5;
 }
