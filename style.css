@@ -218,32 +218,41 @@ header {
 #Tablettes {
   position: relative;
 }
-
-.Medecin img {
+.initiale img,
+.Medecin img,
+.PDG img,
+.Avocat img {
   position: absolute;
   opacity: 0;
-  top: 0;
-  left: -50rem;
+  left: -15rem;
+  scale: 125%;
+  top: 15rem;
+  width: 50%;
 }
 
-.PDG img {
-  opacity: 0;
-}
-
-.Avocat img {
-  opacity: 0;
+.initiale img {
+  opacity: 1;
 }
 
 .Medecin:hover img {
   opacity: 1;
+  z-index: 5;
 }
 
 .PDG:hover img {
   opacity: 1;
+  z-index: 6;
 }
 
 .Avocat:hover img {
   opacity: 1;
+  z-index: 7;
+}
+
+.Medecin:hover h3,
+.PDG:hover h3,
+.Avocat:hover h3 {
+  color: #000000;
 }
 
 .listemetier h3 {
