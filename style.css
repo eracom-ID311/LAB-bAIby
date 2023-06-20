@@ -133,17 +133,19 @@ h2 {
 
 .formulairecommande {
   margin-right: 9rem;
+  max-width: 80rem;
+  padding-bottom: 2rem;
 }
 
 .formulairecommande p {
+  transform: translate(24.5rem, 14.5rem);
   font-size: 28px;
   border-style: solid;
   border-radius: 0.5rem;
   background-color: #bb9ae5;
-  margin: auto;
-  margin-left: 5rem;
-  padding: 1rem;
-  max-width: 13rem;
+  margin: 2rem;
+  padding: 0.9rem;
+  max-width: 11rem;
   text-align: center;
 }
 
@@ -175,7 +177,7 @@ h2 {
   border-width: 0.2rem;
   border-color: white;
   margin: auto;
-  margin-top: 17rem;
+  margin-top: 18rem;
   display: block;
   color: white;
   text-decoration: none;
@@ -257,7 +259,7 @@ header {
 .Medecin:hover h3,
 .PDG:hover h3,
 .Avocat:hover h3 {
-  color: #000000;
+  font-weight: bolder;
 }
 
 .listemetier h3 {
