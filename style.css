@@ -266,7 +266,7 @@ header {
 }
 
 hr {
-  padding-top: 20rem;
+  padding-top: 30rem;
   height: auto;
   width: 100vw;
   size: 1px;
@@ -276,7 +276,7 @@ hr {
 }
 
 footer {
-  padding-top: 5rem;
+  padding-top: 1rem;
   align-items: baseline;
 }
 
