@@ -83,6 +83,14 @@ header h1 {
   transition: 0.3s;
 }
 
+#boutondecommande {
+  padding-bottom: 12rem;
+}
+
+#boutondecommande {
+  padding-top: 30rem;
+}
+
 form {
   color: #bb9ae5;
 }
