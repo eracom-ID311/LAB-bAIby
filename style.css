@@ -259,7 +259,7 @@ header {
 .Medecin:hover h3,
 .PDG:hover h3,
 .Avocat:hover h3 {
-  color: #000000;
+  font-weight: bolder;
 }
 
 .listemetier h3 {
