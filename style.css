@@ -207,7 +207,8 @@ header {
 }
 
 .listemetier h3 {
-  padding-top: 10rem;
+  padding-top: 8rem;
+  padding-bottom: 1rem;
 }
 .listemetier h4 {
   padding-top: 0.1rem;
