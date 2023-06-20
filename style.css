@@ -134,18 +134,18 @@ h2 {
 .formulairecommande {
   margin-right: 9rem;
   max-width: 80rem;
+  padding-bottom: 2rem;
 }
 
 .formulairecommande p {
-  transform: translate(23rem, 13rem);
-
+  transform: translate(20rem, 13rem);
   font-size: 28px;
   border-style: solid;
   border-radius: 0.5rem;
   background-color: #bb9ae5;
   margin: auto;
-  padding: 1rem;
-  max-width: 13rem;
+  padding: 0.9rem;
+  max-width: 11rem;
   text-align: center;
 }
 
@@ -177,7 +177,7 @@ h2 {
   border-width: 0.2rem;
   border-color: white;
   margin: auto;
-  margin-top: 17rem;
+  margin-top: 18rem;
   display: block;
   color: white;
   text-decoration: none;

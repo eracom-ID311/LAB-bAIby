@@ -108,7 +108,7 @@ html {
 
 div.fakeForm {
   margin-top: 10rem;
-  margin-bottom: 40rem;
+  margin-bottom: 10rem;
 }
 div.fakeForm .fuckFuck img {
   width: 80rem;
@@ -124,7 +124,7 @@ div.fakeForm .fuckFuck img {
 
 #imagetablettephoto img {
   z-index: 2;
-  padding-top: 40vh;
+  padding-top: 25vh;
   max-width: 160vw;
   width: 160vw;
   /* img {src="image/tablettevide.png" alt="tablettevide"} */
