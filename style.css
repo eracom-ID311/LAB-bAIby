@@ -230,12 +230,18 @@ header {
 .formulaire {
   margin-left: 9rem;
 }
-.Tableau img {
+
+section.Tableau {
+  position: relative;
+}
+
+section.Tableau img {
   z-index: 1;
   border-radius: 0px;
-
   scale: 60%;
+
   position: sticky;
+  top: 1rem;
 }
 
 .champaremplir button {

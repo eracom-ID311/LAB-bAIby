@@ -119,3 +119,9 @@ html {
   width: 160vw;
   /* img {src="image/tablettevide.png" alt="tablettevide"} */
 }
+
+section#boutondecommande,
+section#descriptioncommande {
+  min-height: 0;
+  /*outline: 1px solid #f0f;*/
+}
