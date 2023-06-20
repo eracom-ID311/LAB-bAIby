@@ -215,6 +215,37 @@ header {
   padding-top: -1rem;
 }
 
+#Tablettes {
+  position: relative;
+}
+
+.Medecin img {
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  left: -50rem;
+}
+
+.PDG img {
+  opacity: 0;
+}
+
+.Avocat img {
+  opacity: 0;
+}
+
+.Medecin:hover img {
+  opacity: 1;
+}
+
+.PDG:hover img {
+  opacity: 1;
+}
+
+.Avocat:hover img {
+  opacity: 1;
+}
+
 .listemetier h3 {
   padding-top: 8rem;
   padding-bottom: 1rem;
