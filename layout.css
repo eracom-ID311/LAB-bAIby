@@ -102,6 +102,7 @@ html {
 .payement {
   max-width: 15vw;
   scale: 150%;
+  margin-left: 4rem;
 }
 
 .ipadfond {

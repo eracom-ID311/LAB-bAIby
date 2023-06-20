@@ -161,6 +161,7 @@ h2 {
   padding-left: 0.4rem;
   padding-right: 0.4rem;
   text-align: center;
+  max-width: 20rem;
 }
 
 .formulairecommande h3:hover {
